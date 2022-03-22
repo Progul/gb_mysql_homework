@@ -34,3 +34,4 @@ WHERE user_id IN (
 group by gender
 HAVING count(*) > 1
 LIMIT 1
+;
