@@ -1,4 +1,9 @@
 # Домашние работы по курсу MySQL
+
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/vISmwpBJUNYzukTnVx" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vISmwpBJUNYzukTnVx">via GIPHY</a></p>
+</div>
+
 ## Видеоурок 2. Практическое задание по теме “Управление БД”
 
 [Вот тут решение](https://github.com/Progul/gb_mysql_homework/blob/master/homework-2.sql "Решение 2 задания")
