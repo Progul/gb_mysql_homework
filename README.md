@@ -1,6 +1,8 @@
 # Домашние работы по курсу MySQL
 
-<iframe src="https://giphy.com/embed/vISmwpBJUNYzukTnVx" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vISmwpBJUNYzukTnVx">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## Видеоурок 2. Практическое задание по теме “Управление БД”
 
